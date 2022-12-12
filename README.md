@@ -33,6 +33,8 @@ You are solely responsible for any decisions or actions you take based on the in
 Third Party Sites and Services
 >SUNRISE may provide links to, or contact information for, third party’s sites or services. SUNRISE is not responsible for, and does not endorse, any content of third party’ service, sites, apps or links.  
 >
+>SUNRISE may provide third-party’s medical equipment for transfer data,  but you must abide by local laws and policies, and confirm whether the third-party medical equipment meets the local government certification. SUNRISE is not responsible for, and does not endorse, any content of third-party’s medical equipment.
+>
 >SUNRISE also may enter into business arrangements with third parties; in the course of the arrangements, we may share with them anonymous data or information, which are de-identified data and cannot be re-identified and attributable to you or anyone. Some third parties may want you to share your personal data or information with them in order to provide services. Whether to share your personal data or information with these third parties will be up to you. By properly following instructions provided to you by SUNRISE and these third parties, you will be able to decide whether you want to share personal data or information with these third parties. Sharing of your personal data or information with third parties is solely at your own discretion and risk.
 
 Rules of Conduct
@@ -205,7 +207,9 @@ In the event there has been a leak of your personal information which has expose
 >SUNRISE不提供醫療諮詢、診斷，或從事醫療行為。我們服務之目的不在於取代專業醫療服務，而僅是提供您資訊。至於有關您的健康狀況、使用任何藥物或醫療設備的疑問，請您向醫生或其他醫療專業者詢問意見。請您勿因我們所提供的服務，而忽略專業的醫療諮詢，或延遲就醫。您在使用本服務後，所採取的任何決定或行動，將由您全權負責。您是否信賴SUNRISE或本服務提供的任何資訊，完全由您自行決定和承擔風險。
 
 第三方網站及服務
->SUNRISE提供之服務可能包括第三方網站之連結或資訊，但SUNRISE對第三方之服務內容、網站、App或連結之內容不負擔任何責任，亦不給予認同或保證。  
+>SUNRISE提供之服務可能包括第三方網站之連結或資訊，但SUNRISE對第三方之服務內容、網站、App或連結之內容不負擔任何責任，亦不給予認同或保證。
+>  
+>SUNRISE提供之第三方醫療設備連接，但您必須遵守當地的法律政策，確認第三方醫療設備是否符合當地政府認證，SUNRISE對提供之第三方醫療設備連接不負擔任何責任，亦不給予認同或保證。
 >
 >SUNRISE可能與第三方合作，與之分享經佚名化之數據或資料（亦即業經去識別化且無法再恢復的資料）。有些第三方可能會需要您分享個人數據或資料，才能提供服務；您是否願意將個人數據或資料分享給第三方，您可自行決定；請您務必詳細了解SUNRISE及第三方提供的說明後，再決定是否與第三人共享個人數據或資料。若您決定與第三方分享您的個人數據或資料，您必須自行承擔您與第三方共享個人數據或資料可能產生的風險。
 
