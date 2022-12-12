@@ -33,7 +33,7 @@ You are solely responsible for any decisions or actions you take based on the in
 Third Party Sites and Services
 >SUNRISE may provide links to, or contact information for, third party’s sites or services. SUNRISE is not responsible for, and does not endorse, any content of third party’ service, sites, apps or links.  
 >
->SUNRISE may provide third-party’s medical equipment for transfer data,  but you must abide by local laws and policies, and confirm whether the third-party medical equipment meets the local government certification. SUNRISE is not responsible for, and does not endorse, any content of third-party’s medical equipment.
+>SUNRISE may provide third-party’s medical equipment for transferring data,  but you must abide by local laws and policies, and confirm whether the third-party medical equipment meets the local government certification. SUNRISE is not responsible for, and does not endorse, any content of third-party’s medical equipment.
 >
 >SUNRISE also may enter into business arrangements with third parties; in the course of the arrangements, we may share with them anonymous data or information, which are de-identified data and cannot be re-identified and attributable to you or anyone. Some third parties may want you to share your personal data or information with them in order to provide services. Whether to share your personal data or information with these third parties will be up to you. By properly following instructions provided to you by SUNRISE and these third parties, you will be able to decide whether you want to share personal data or information with these third parties. Sharing of your personal data or information with third parties is solely at your own discretion and risk.
 
